@@ -12,7 +12,7 @@ ls
 You should get a list of files and folder similar to this:
 
 ```bash
-$ ~/programming-101-exercises ls
+~/programming-101-exercises $ ls
 0  1  2  3  README.md
 ```
 
