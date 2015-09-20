@@ -1,6 +1,6 @@
 ## Programming 101 - exercises
 
-To copy this folder to your computer, open a terminal and run these commands:
+To copy the unsolved exercises to your computer, open a terminal and run these commands:
 
 ```bash
 cd
@@ -9,7 +9,7 @@ cd programming-101-exercises/
 ls
 ```
 
-You should get a list of files and folder similar to this:
+You should get a list of files and folders similar to this:
 
 ```bash
 ~/programming-101-exercises $ ls
