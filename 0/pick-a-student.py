@@ -8,3 +8,5 @@ random.shuffle(student_ids)
 for sid in student_ids:
     print(sid)
     input("paused.")
+
+print("done.")
