@@ -9,15 +9,13 @@
 #
 # Returns `True` or `False`, depending on whether they're
 # allowed to enter or not.
-#
-# Hint: the supplied username will always be correct.
 
 
 def enter(username, password):
     whitelist = [
-        { user: 'killy', 'age': 29, 'password': 'youshallnotpass' },
-        { user: 'hacker', 'age': 17, 'password': 't00str0ng1' },
-        { user: 'whoeverest', 'age': 25, 'pasword': 'blahbleh' }
+        { 'user': 'killy', 'age': 29, 'password': 'youshallnotpass' },
+        { 'user': 'hacker', 'age': 17, 'password': 't00str0ng1' },
+        { 'user': 'whoeverest', 'age': 25, 'password': 'blahbleh' }
     ]
 
     pass # delete "pass" and write your code here
@@ -32,3 +30,4 @@ res3 = enter('hacker', '12312321')
 assert(res1 == True)
 assert(res2 == False)
 assert(res3 == False)
+print("Access granted.")
