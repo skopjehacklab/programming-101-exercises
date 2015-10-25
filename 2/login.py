@@ -14,11 +14,11 @@
 
 
 def enter(username, password):
-	whitelist = [
-		{ user: 'killy', 'age': 29, 'password': 'youshallnotpass' },
-		{ user: 'hacker', 'age': 17, 'password': 't00str0ng1' },
-		{ user: 'whoeverest', 'age': 25, 'pasword': 'blahbleh' }
-	]
+    whitelist = [
+        { user: 'killy', 'age': 29, 'password': 'youshallnotpass' },
+        { user: 'hacker', 'age': 17, 'password': 't00str0ng1' },
+        { user: 'whoeverest', 'age': 25, 'pasword': 'blahbleh' }
+    ]
 
     pass # delete "pass" and write your code here
 

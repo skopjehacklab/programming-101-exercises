@@ -26,34 +26,34 @@
 #    of the subject.
 
 msgs = [
-	{
-		'from': 'asdf.person@gmail.com',
-		'subject': 'Hey bro!',
-		'body': "What's up?",
-		'was_opened': False,
-		'date': { 'd': 30, 'm': 6, 'y': 2015 }
-	},
-	{
-		'from': 'random19@yahoo.com',
-		'subject': 'Free nigerian monies!',
-		'body': "My uncle died and wants to transfer some dollars..",
-		'was_opened': True,
-		'date': { 'd': 5, 'm': 6, 'y': 2014 }
-	},
-	{
-		'from': 'bleh-blah@gmail.com',
-		'subject': 'Newsletter: why code never works',
-		'body': "Because PHP...",
-		'was_opened': True,
-		'date': { 'd': 19, 'm': 11, 'y': 2015 }
-	},
-	{
-		'from': 'testingemail123@gmail.com',
-		'subject': 'This is a test',
-		'body': "ASDASDASD",
-		'was_opened': False,
-		'date': { 'd': 3, 'm': 2, 'y': 2015 }
-	}
+    {
+        'from': 'asdf.person@gmail.com',
+        'subject': 'Hey bro!',
+        'body': "What's up?",
+        'was_opened': False,
+        'date': { 'd': 30, 'm': 6, 'y': 2015 }
+    },
+    {
+        'from': 'random19@yahoo.com',
+        'subject': 'Free nigerian monies!',
+        'body': "My uncle died and wants to transfer some dollars..",
+        'was_opened': True,
+        'date': { 'd': 5, 'm': 6, 'y': 2014 }
+    },
+    {
+        'from': 'bleh-blah@gmail.com',
+        'subject': 'Newsletter: why code never works',
+        'body': "Because PHP...",
+        'was_opened': True,
+        'date': { 'd': 19, 'm': 11, 'y': 2015 }
+    },
+    {
+        'from': 'testingemail123@gmail.com',
+        'subject': 'This is a test',
+        'body': "ASDASDASD",
+        'was_opened': False,
+        'date': { 'd': 3, 'm': 2, 'y': 2015 }
+    }
 ]
 
 
